@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Day 1](day1.md)
+- [Day 1](Week1.md)
 - [TBD]
 - [TBD]
 - [TBD]
