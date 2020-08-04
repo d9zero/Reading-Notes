@@ -14,6 +14,12 @@ From the Duckett JS book:
 Introduction
 JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
+
+
+
+
+![book](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fprodimage.images-bn.com%2Fpimages%2F9781118907443_p0_v1_s1200x630.jpg&f=1&nofb=1)
+
 **Highlights
 
 *** HTML Chapter 1:
