@@ -70,6 +70,15 @@ CSS works by associating rules with html elements. Thes rules govern how the con
 
 A script will have to temporarily store the bits of information it needs to do its job, it can store this data in what is called variables.
 
+<ul>Data Types
+  <li>Numeric Data Type</li>
+  <li>String Data Type</li>
+  <li>Boolean Data Type</li>
+</ul>
+
+#### Arrays:
+ 
+ An array is a special type of variable. It doesn't just store one value; it stores a list of values.
 
 
 
