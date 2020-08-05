@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Day 1](class-01.md)
-- [TBD]
-- [TBD]
+- [Day 2](class-02.md)
+- [Day 3](class-03.md)
 - [TBD]
 - [TBD]
 - [TBD]
