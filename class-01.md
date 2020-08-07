@@ -7,7 +7,7 @@
 - [Day 2](class-02.md)
 - [TBD]
 - [TBD]
-- [TBD]
+- [Day 5](class-05.md)
 - [TBD]
 - [TBD]
 - [TBD]
