@@ -26,4 +26,17 @@ Chapter 11: “Color” (pp.246-263)
 Chapter 12: “Text” (pp.264-299)
 
 
+# Arrays
+
+(Taken from class lecture.)
+
+![Arrays](images/Screenshot_(550).png)
+
+
+![anArrays](images/Screenshot_(552).png)
+
+# In the screenshot
+
+In the screenshots a terminal command in javascript demonstrates how to set an array in a variable. By using the var students = [`x`, `y`, `z`];
+each item within quotations is included within the array 'students'. When console logged 'console.log(students);' the console return are the items `x`, `y`, and `z`.   
 
