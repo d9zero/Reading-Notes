@@ -5,7 +5,7 @@
 - [Day 3](class-03.md)
 - [Day 4](class-04.md)
 - [Day 5](class-05.md)
-- [TBD]
+- [Day 6](class-06.md)
 - [TBD]
 - [TBD]
 - [TBD]
