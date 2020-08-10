@@ -32,9 +32,13 @@ Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182
 # Box dimensions
 
   in CSS div {
+
             border: 2px solid black line;
+
             height: 300px;
+
             width: 400px;
+
             background-color: #ee3e80;]}
         
 # Placement
@@ -44,3 +48,34 @@ Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182
                   padding: 5px;
                   margin: 0 px;}
 
+![screenshot of demo](images/Screenshot_(490).png)
+![screenshot of demo](images/Screenshot_(491).png)
+
+# Loops
+
+var mytool= 'hammer';
+
+var mytoolshed= ['miter saw', 'band saw', 'drill press', 'table saw', 'planer', 'saw legs', 'impact drill'];
+
+console.log('Challenge 1');
+
+for(var i=0; i < mytoolshed.length; i++){
+
+  console.log('the value of i is ' + i);
+
+  console.log('the value of my array is ' + mytoolshed[i]);
+}
+
+console.log (mytoolshed);
+
+console.log('Challenge 2');
+
+var i = 0;
+
+while(i< mytoolshed.length){
+
+  if(mytoolshed[i] === 'band saw'){console.log(mytoolshed[i]);}
+
+  i++;}
+
+console.log('Challenge 3')
