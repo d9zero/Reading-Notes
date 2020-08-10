@@ -3,7 +3,7 @@
 - [Day 1](class-01.md)
 - [Day 2](class-02.md)
 - [TBD]
-- [TBD]
+- [Day 4](class-04.md)
 - [Day 5](class-05.md)
 - [TBD]
 - [TBD]
@@ -55,5 +55,5 @@ There are a variation of ways in which color can be selected.
 Text variation: flourishes
   - Sherrif
   - San Sherrif
-  
+
 
