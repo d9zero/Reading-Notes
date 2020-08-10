@@ -38,5 +38,22 @@ Chapter 12: “Text” (pp.264-299)
 # In the screenshot
 
 In the screenshots a terminal command in javascript demonstrates how to set an array in a variable. By using the var students = [`x`, `y`, `z`];
-each item within quotations is included within the array 'students'. When console logged 'console.log(students);' the console return are the items `x`, `y`, and `z`.   
+each item within quotations is included within the array 'students'. When console logged 'console.log(students);' the console returns with the items `x`, `y`, and `z`. In the second picture, the variable is equated into a array with the use of first name and last name strings. In line 58 it is presented as sayhi(firstName='John', lastName='Doe'){
+var username etc..The user input is saved in storage with the return [userName, greeting] command inside the function. On lines 69 and 70, the variable array and use of functions (lines 55-63) is enabled and invoked.
+
+![githubbranch](images/Screenshot_(554).png)
+
+![githubfork](images/Screenshot_(555).png)
+
+# Color
+
+
+There are a variation of ways in which color can be selected.
+  - Hex code
+  - Color Selection
+  - RGBA
+Text variation: flourishes
+  - Sherrif
+  - San Sherrif
+  
 
