@@ -4,6 +4,9 @@
 
 - [Day 1](class-01.md)
 - [Day 2](class-02.md)
+- [Day 3](class-03.md)
+- [Day 4](class-04.md)
+- [Day 5](class-05.md)
 - [TBD]
 - [TBD]
 - [TBD]
@@ -15,9 +18,7 @@
 - [TBD]
 - [TBD]
 - [TBD]
-- [TBD]
-- [TBD]
-- [TBD]
+
 
 ![Scholar](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fwww.informationng.com%2Fwp-content%2Fuploads%2F2016%2F03%2Fgodfrey_kneller_old_scholar.jpg&f=1&nofb=1)
 
