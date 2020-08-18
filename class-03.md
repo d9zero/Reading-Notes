@@ -1,3 +1,7 @@
+# Day Three Notes
+
+
+# Topic: HTML Lists, Control Flow with JS, and the CSS Box Model
 
 
 ## Table of Contents
@@ -12,14 +16,18 @@
 - [Day 8](class-08.md)
 - [Day 9](class-09.md)
 - [Day 10](class-10.md)
-- [TBD]
-- [TBD]
-- [TBD]
-- [TBD]
-- [TBD]
-- [TBD]
+- [Day 11](class-11.md)
+- [Day 12](class-12.md)
+- [Day 13](class-13.md)
+- [Day 14](class-14.md)
+- [Day 15](class-15.md)
+- [Day 16](class-16.md)
+- [Day 17](class-17.md)
+- [Day 18](class-18.md)
+- [Day 19](class-19.md)
+- [Day 20](class-20.md)
 
-## Day Three Notes: Reading
+## Day Three Reading:
 From the Duckett HTML book:
 
 Chapter 3: “Lists” (pp.62-73)

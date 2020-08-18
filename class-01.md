@@ -1,5 +1,7 @@
-* var class-01.md = prompt ('Day One');
+# Day One Notes
 
+
+# Topic: Introductory HTML and JavaScript
 
 ## Table of Contents
 
@@ -13,15 +15,19 @@
 - [Day 8](class-08.md)
 - [Day 9](class-09.md)
 - [Day 10](class-10.md)
-- [TBD]
-- [TBD]
-- [TBD]
-- [TBD]
-- [TBD]
-- [TBD]
+- [Day 11](class-11.md)
+- [Day 12](class-12.md)
+- [Day 13](class-13.md)
+- [Day 14](class-14.md)
+- [Day 15](class-15.md)
+- [Day 16](class-16.md)
+- [Day 17](class-17.md)
+- [Day 18](class-18.md)
+- [Day 19](class-19.md)
+- [Day 20](class-20.md)
 
 
-** Day One Notes
+## Day One Reading:
 
 From the Duckett HTML book:
 

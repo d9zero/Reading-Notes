@@ -1,5 +1,9 @@
 # Day Two Notes
 
+
+# Topic: Basics of HTML, CSS & JS
+
+
 ## Table of Contents
 
 - [Day 1](class-01.md)
@@ -12,18 +16,22 @@
 - [Day 8](class-08.md)
 - [Day 9](class-09.md)
 - [Day 10](class-10.md)
-- [TBD]
-- [TBD]
-- [TBD]
-- [TBD]
-- [TBD]
-- [TBD]
+- [Day 11](class-11.md)
+- [Day 12](class-12.md)
+- [Day 13](class-13.md)
+- [Day 14](class-14.md)
+- [Day 15](class-15.md)
+- [Day 16](class-16.md)
+- [Day 17](class-17.md)
+- [Day 18](class-18.md)
+- [Day 19](class-19.md)
+- [Day 20](class-20.md)
 
 
 ![Scholar](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fwww.informationng.com%2Fwp-content%2Fuploads%2F2016%2F03%2Fgodfrey_kneller_old_scholar.jpg&f=1&nofb=1)
 
 
-## Day Two Notes:
+## Day Two Reading:
 
 From the Duckett HTML book:
 
