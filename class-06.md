@@ -19,7 +19,7 @@
 - [Day 11](class-11.md)
 - [Day 12](class-12.md)
 - [Day 13](class-13.md)
-- [Day 14](class-14.md)
+- [Day 14](class-14.md), [Day 14 (Extended)](class-14b.md)
 - [Day 15](class-15.md)
 - [Day 16](class-16.md)
 - [Day 17](class-17.md)
